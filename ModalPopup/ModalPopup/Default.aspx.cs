@@ -11,6 +11,7 @@ namespace ModalPopup
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+			Console.WriteLine("test");
         }
     }
 }
